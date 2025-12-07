@@ -1,0 +1,12 @@
+{
+  "name": "telegram-vercel-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "vercel-build": "echo skip"
+  },
+  "engines": {
+    "node": "18.x"
+  },
+  "dependencies": {}
+}
